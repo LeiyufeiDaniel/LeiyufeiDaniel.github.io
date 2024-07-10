@@ -7,3 +7,6 @@
 ### BY DANIEL 2024
 ###### [点击这里/click here](./danceheart.html) 
 ### BY DANIEL 2024
+For FOX:
+SSBMT1ZFIFlPVSBGT1gK
+tips:base64转utf-8

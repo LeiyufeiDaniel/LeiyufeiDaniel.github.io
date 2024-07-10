@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="temple.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Temple</title>
+    <style>
+        p {
+            color: red;
+        }
+        #x {
+            text-align: center;
+            color: purple;
+        }
+        #y {
+            color: brown;
+            margin-left: 50px;
+        }
+        .text {
+            font-style: italic;
+        }
+        p.no {
+            text-decoration: underline;
+        }
+        /* <!-- 伪类选择器（动态效果） --> */
+
+        a:active {
+            color: skyblue;
+        }
+
+        a:visited {
+            color: green;
+        }
+
+        a:hover {
+            color: yellow;
+        }
+
+        a:link {
+            color: red;
+        }
+        div {
+            background-color: skyblue;
+            width: 80px;
+            height: 80px;
+        }
+        div:hover {
+            background-color: red;
+            width: 80px;
+            height: 40px;
+        }
+    </style>
+</head>
+<body>
+    <p>你好，This is Lei</p>
+    <p id="x" class="text no">XXX</p>
+    <p id="y" class="text">XCCC</p>
+    <!-- class、id不能用数字开头 -->
+    &copy;
+
+    <!-- 伪类选择器（动态效果） -->
+     <br>
+     <a href="#">动态效果ByCSS</a>
+     <br>
+    <div>ABOX</div>
+    <br>
+    <a href="#" class="test">hello</a>
+
+</body>
+</html>
