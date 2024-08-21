@@ -6,3 +6,5 @@
 ### 表白，爱心代码:<br>   
 #### 效果1 [热烈的心](https://leiyufeidaniel.github.io/danceheart.html "热烈的心")<br>
 #### 效果2 [跳动的心](https://leiyufeidaniel.github.io/danceheart.html "跳动的心")<br>
+
+#### [忠诚！](leiyufeidaniel.github.io/PCP/ "忠诚")<br>
