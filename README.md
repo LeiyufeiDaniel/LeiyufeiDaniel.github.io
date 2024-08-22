@@ -8,3 +8,4 @@
 #### 效果2 [跳动的心](https://leiyufeidaniel.github.io/danceheart.html "跳动的心")<br>
 
 #### [忠诚！](https://leiyufeidaniel.github.io/CPC/index.html "忠诚")<br>
+#### [忠橙！](https://leiyufeidaniel.github.io/CPC/zc.html "忠橙")<br>
